@@ -1,0 +1,6 @@
+{
+  "name": "Birthday Surprise",
+  "description": "A magical 10-step interactive birthday celebration for a special girl featuring passcode access, mystery unboxing, scratch cards, balloon pop VIP perks, blooming flower garden, heartfelt letter, reasons why she is cherished, interactive wish cake, cosmic fortune cookie, royal queen crowning, grand fireworks finale, and YouTube background music.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
